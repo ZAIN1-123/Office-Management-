@@ -1,2 +1,1 @@
-# Office-Management-
-Office Manage
+**Purpose  of the project**
